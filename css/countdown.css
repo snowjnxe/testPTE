@@ -1,0 +1,35 @@
+#progressBar {
+  width: 80%;
+  margin: 10px auto;
+  height: 30px;
+  background-color: #F2F4F8;
+}
+
+#progressBar div {
+  height: 100%;
+  text-align: right;
+  padding: 0 10px;
+  line-height: 30px; /* same as #progressBar height if we want text middle aligned */
+  width: 0;
+  background-color: #5DADE2;
+  box-sizing: border-box;
+  radius: 10px;
+}
+
+#progressBar01 {
+  width: 80%;
+  margin: 10px auto;
+  height: 30px;
+  background-color: #F2F4F8;
+}
+
+#progressBar01 div {
+  height: 100%;
+  text-align: right;
+  padding: 0 10px;
+  line-height: 30px; /* same as #progressBar height if we want text middle aligned */
+  width: 0;
+  background-color: #58D68D;
+  box-sizing: border-box;
+  radius: 10px;
+}

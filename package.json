@@ -1,0 +1,24 @@
+{
+  "name": "jjk",
+  "version": "1.2.0",
+  "description": "AuHai PTE learning App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Damon",
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "electron-pdf-window": "^1.0.12",
+    "getmac": "^1.4.1",
+    "jquery": "^3.3.1",
+    "macaddress": "^0.2.8",
+    "metismenu": "^2.7.7",
+    "npm": "^5.10.0",
+    "popper.js": "^1.14.3"
+  },
+  "devDependencies": {
+    "electron": "^1.8.4",
+    "electron-builder": "^20.21.2"
+  }
+}
